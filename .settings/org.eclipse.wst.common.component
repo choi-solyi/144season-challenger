@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
     <wb-module deploy-name="LOLing">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
@@ -6,3 +7,13 @@
         <property name="java-output-path" value="/LOLing/build/classes"/>
     </wb-module>
 </project-modules>
+=======
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="sample">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/"/>
+        <property name="context-root" value="sample"/>
+        <property name="java-output-path" value="/sample/build/classes"/>
+    </wb-module>
+</project-modules>
+>>>>>>> branch 'master' of https://github.com/solyi-choi/144season-challenger.git
