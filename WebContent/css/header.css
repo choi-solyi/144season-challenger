@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+/*nav 링크 간격*/
+.nav-item{
+    padding: 0px 5px;
+}
+
+/*HOME 버튼 색상*/
+.navbar-light .navbar-brand {
+    color: #f6ff8e;
+}
+
+/* menu 버튼 색상*/
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+
+/* dropdown버튼 눌렀을때 나오는 컬러*/
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: white;
+}
+
+/* search 버튼 */
+.btn-outline-success {
+    color:  white;
+    border-color:  white;
+}
+/* search hover color*/
+.btn-outline-success:hover{
+    background-color: #f6ff8e;
+    color:black;
+}
+
+/* menu hover color*/
+.navcolor a:hover{
+    color: #f6ff8e !important; 
+    font-weight: 700;
+}
+
+.navcolor a:link, .navcolor a:active{
+    color: white !important; 
+} 
+
+.navcolor a{
+    font-weight: 500;
+}
+.navlink a{
+    color: white !important;
+}
